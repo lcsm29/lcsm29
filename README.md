@@ -1,5 +1,4 @@
-### Hi there 👋
-### I’m @learningcurve-since-mar-29-2021
+### Hi there 👋 I’m @learningcurve-since-mar-29-2021
 
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
